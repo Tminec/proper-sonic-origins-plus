@@ -2,7 +2,7 @@
 
 @echo off
 color 1F
-echo Please wait....⠀⠀⠀⠀⠀⠀⠀⠀⠀⠀
+echo Please wait...
 (NET FILE||(powershell start-process -FilePath '%0' -verb runas)&&(exit /B)) >NUL 2>&1
 (NET FILE||(exit)) >NUL 2>&1
 
@@ -120,8 +120,7 @@ start SonicChaosRemake.exe
 exit
 
 :updates
-start https://github.com/Tminec/proper-sonic-origins-plus/releases
-
-:gotoMainMenu
+start https://github.com/Tminec/proper-sonic-origins-plus/releases/latest
+goto:MainMenu
 
 :Exit
