@@ -33,6 +33,7 @@ echo  [ 7 ] Sonic 3 A.I.R.
 echo  [ 8 ] Sonic CD Restored
 echo  [ 9 ] Sonic CD Restored Legacy
 echo  [ + ] Sonic Mania Plus
+echo   SETTINGS
 echo  [ / ] Check for Updates
 echo  [ - ] EXIT
 echo.
