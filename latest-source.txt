@@ -28,7 +28,7 @@ echo  [ E ] Sonic SMS Remake 3: Timelines
 echo  PLUS
 echo  [ 4 ] Sonic Forever
 echo  [ 5 ] Sonic Forever Expansion Pack
-echo  [ 6 ] Sonic 2	Absolute
+echo  [ 6 ] Sonic 2 Absolute
 echo  [ 7 ] Sonic 3 A.I.R.
 echo  [ 8 ] Sonic CD Restored
 echo  [ 9 ] Sonic CD Restored Legacy
@@ -121,6 +121,7 @@ exit
 
 :updates
 start https://github.com/Tminec/proper-sonic-origins-plus/releases/latest
+
 goto:MainMenu
 
 :Exit
