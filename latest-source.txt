@@ -64,37 +64,47 @@ exit
 cd data/sonic2
 start RSDKv4_64.exe
 exit
+
 :sonic3
 cd data/sonic3
 start Fusion.exe Sonic_Knuckles_wSonic3.bin
+exit
+
 :soniccd
 cd data/soniccd
 start RSDKv3_64.exe
 exit
+
 :sonicforever
 cd data/plus/stf
 start SonicForever.exe
 exit
+
 :sonicforevermod
 cd data/plus/stfepack
 start SonicForever.exe
 exit
+
 :2absolute
 cd data/plus/s2a
 start Sonic2Absolute.exe
 exit
+
 :3air
 cd data\plus\s3air
 start Sonic3AIR.exe
 exit
+
 :cdr
 cd data/plus/Sonic CD Restored
 start Restored.exe
 exit
+
 :cdrl
 cd data/plus/Sonic CD Restored
 start Legacy.exe
 exit
+
 
 :mania
 cd data/plus/smp
