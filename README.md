@@ -1,7 +1,8 @@
-# proper-sonic-origins-plus
+ # Proper Sonic Origins Plus
 Who needs Sonic Origins Plus?
 
-This project is about the classic Sonic games.
-We have too many games that better than Sonic Origins Plus.
+This project is about the classic Sonic games!
+
+It has, Sonic 1, Sonic 2, Sonic 3, Sonic CD, Sonic Chaos, Sonic SMS Remakes, Sonic Forever, Sonic Forever Expansion Pack, Sonic 1 Absolute, Sonic 3 A.I.R., Sonic CD Restored (will be fixed), Sonic Mania Plus
 
  I hope you enjoy!
