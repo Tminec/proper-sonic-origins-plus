@@ -60,6 +60,7 @@ if %choice%==/ goto:updates
 cd data/sonic
 start RSDKv4_64.exe
 exit
+
 :sonic2
 cd data/sonic2
 start RSDKv4_64.exe
