@@ -1,7 +1,7 @@
  # Proper Sonic Origins Plus
 Who needs Sonic Origins Plus?
 
-**NOTE: New Update is coming and it will fix everything :D!**
+# **NOTE: New Update is coming and it will fix everything :D!**
 
 This project is about the classic Sonic games!
 
