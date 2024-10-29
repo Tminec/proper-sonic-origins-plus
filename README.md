@@ -21,4 +21,11 @@ The biggest Classic Sonic Game Collection!
 > Sonic SMS Remake 3: Timelines
 > Sonic Chaos Remake
 
+## Plus
+
+> Sonic Forever 
+> Sonic Forever: Expansion Pack
+> Sonic 2 Absolute
+> Sonic 3 A.I.R.
+
  I hope you enjoy!
