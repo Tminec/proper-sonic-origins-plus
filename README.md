@@ -9,10 +9,10 @@ The biggest Classic Sonic Game Collection!
 
 ## Classic Games
 
-> Sonic 1 
-> Sonic 2
-> Sonic 3 & Knuckles Collection
-> Sonic CD
+- Sonic 1 
+- Sonic 2
+- Sonic 3 & Knuckles Collection
+- Sonic CD
 
 ## 8 Bit Classics
 
