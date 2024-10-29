@@ -1,19 +1,28 @@
-:: Created by BeLuFaaFPS
+:: Created by AnakamaTheHedgehog
 
 @echo off
-color 1F
+color 2F
 echo Please wait...
+title Proper Sonic Origins+ V3
 (NET FILE||(powershell start-process -FilePath '%0' -verb runas)&&(exit /B)) >NUL 2>&1
 (NET FILE||(exit)) >NUL 2>&1
 
-:MainMenu
+
+:Warning
+echo ---------------------------------------------------------------------------------
+echo Please make sure you downloaded all the files from the releases and extracted them
+echo Otherwise, the games will not work!
+echo Press any button to contiune...
+echo ---------------------------------------------------------------------------------
+pause>nul
+
+:Menu
 cls
-title Proper Sonic Origins+
 pushd %~dp0
 set "choice=-"
 echo.
 echo ============================================================
-echo  Proper Sonic Origins+
+echo  Proper Sonic Origins+ V3
 echo ============================================================
 echo	16 BIT CLASSICS
 echo  [ 0 ] Sonic the Hedgehog
@@ -31,8 +40,7 @@ echo  [ 5 ] Sonic Forever Expansion Pack
 echo  [ 6 ] Sonic 2 Absolute
 echo  [ 7 ] Sonic 3 A.I.R.
 echo  [ 8 ] Sonic CD Restored
-echo  [ 9 ] Sonic CD Restored Legacy
-echo  [ + ] Sonic Mania Plus
+echo  [ 9 ] Sonic Mania Plus
 echo   SETTINGS
 echo  [ / ] Check for Updates
 echo  [ - ] EXIT
@@ -47,9 +55,8 @@ if %choice%==5 goto:sonicforevermod
 if %choice%==6 goto:2absolute
 if %choice%==7 goto:3air
 if %choice%==8 goto:cdr
-if %choice%==9 goto:cdrl
 if %choice%==- goto:EXIT
-if %choice%==+ goto:mania
+if %choice%==9 goto:mania
 if %choice%==* goto:chaos
 if %choice%==q goto:sms1
 if %choice%==w goto:sms2
@@ -68,7 +75,7 @@ exit
 
 :sonic3
 cd data/sonic3
-start Fusion.exe Sonic_Knuckles_wSonic3.bin
+start SONIC3K.EXE
 exit
 
 :soniccd
@@ -77,12 +84,12 @@ start RSDKv3_64.exe
 exit
 
 :sonicforever
-cd data/plus/stf
+cd data/plus/s1f
 start SonicForever.exe
 exit
 
 :sonicforevermod
-cd data/plus/stfepack
+cd data/plus/s1fpack
 start SonicForever.exe
 exit
 
@@ -97,15 +104,9 @@ start Sonic3AIR.exe
 exit
 
 :cdr
-cd data/plus/Sonic CD Restored
+cd data/plus/soniccdrestored
 start Restored.exe
 exit
-
-:cdrl
-cd data/plus/Sonic CD Restored
-start Legacy.exe
-exit
-
 
 :mania
 cd data/plus/smp
