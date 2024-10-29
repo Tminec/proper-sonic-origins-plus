@@ -27,5 +27,6 @@ The biggest Classic Sonic Game Collection!
 > Sonic Forever: Expansion Pack
 > Sonic 2 Absolute
 > Sonic 3 A.I.R.
+> Sonic CD Restored
 
  I hope you enjoy!
