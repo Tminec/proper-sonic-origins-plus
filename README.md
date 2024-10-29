@@ -29,4 +29,4 @@ The biggest Classic Sonic Game Collection!
 - Sonic 3 A.I.R.
 - Sonic CD Restored
 
- I hope you enjoy!
+ > I hope you enjoy!
