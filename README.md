@@ -16,17 +16,17 @@ The biggest Classic Sonic Game Collection!
 
 ## 8 Bit Classics
 
-> Sonic SMS Remake 1
-> Sonic SMS Remake 2 
-> Sonic SMS Remake 3: Timelines
-> Sonic Chaos Remake
+- Sonic SMS Remake 1
+- Sonic SMS Remake 2 
+- Sonic SMS Remake 3: Timelines
+- Sonic Chaos Remake
 
 ## Plus
 
-> Sonic Forever 
-> Sonic Forever: Expansion Pack
-> Sonic 2 Absolute
-> Sonic 3 A.I.R.
-> Sonic CD Restored
+- Sonic Forever 
+- Sonic Forever: Expansion Pack
+- Sonic 2 Absolute
+- Sonic 3 A.I.R.
+- Sonic CD Restored
 
  I hope you enjoy!
