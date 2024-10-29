@@ -1,7 +1,7 @@
 :: Created by AnakamaTheHedgehog
 
 @echo off
-color 2F
+color 3F
 echo Please wait...
 title Proper Sonic Origins+ V3
 (NET FILE||(powershell start-process -FilePath '%0' -verb runas)&&(exit /B)) >NUL 2>&1
@@ -28,7 +28,7 @@ echo	16 BIT CLASSICS
 echo  [ 0 ] Sonic the Hedgehog
 echo  [ 1 ] Sonic the Hedgehog 2
 echo  [ 2 ] Sonic the Hedgehog CD
-echo  [ 3 ] Sonic 3 and Knuckles 
+echo  [ 3 ] Sonic the Hedgehog 3 and Knuckles
 echo	8 BIT CLASSICS
 echo  [ * ] Sonic Chaos Remake
 echo  [ Q ] Sonic SMS Remake
