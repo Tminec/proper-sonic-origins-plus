@@ -29,4 +29,5 @@ The biggest Classic Sonic Game Collection!
 - Sonic 3 A.I.R.
 - Sonic CD Restored
 
- > **I hope you enjoy!**
+# Join to Discord for updates and sneak peak for V4!
+https://discord.gg/nBNTP32VNB
