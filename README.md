@@ -6,7 +6,6 @@ Who needs Sonic Origins Plus?
 - V3 Developed by: AnakamaTheHedgehog (Me).
 - V4 is Developing by: AnakamaTheHedgehog (Me), Swirlblade, mishter.
 #
-
 ![Shitty Thumb](https://github.com/Tminec/proper-sonic-origins-plus/blob/main/logo.png)
 
 The biggest Classic Sonic Game Collection!
