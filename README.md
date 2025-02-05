@@ -2,9 +2,9 @@
 Who needs Sonic Origins Plus?
 
 ## Developers
-- V2 Developed by: AnakamaTheHedgehog.
-- V3 Developed by: AnakamaTheHedgehog.
-- V4 is Developing by: AnakamaTheHedgehog, Swirlblade, mishter.
+- V2 Developed by: AnakamaTheHedgehog (Me).
+- V3 Developed by: AnakamaTheHedgehog (Me).
+- V4 is Developing by: AnakamaTheHedgehog (Me), Swirlblade, mishter.
 
 ![Shitty Thumb](https://github.com/Tminec/proper-sonic-origins-plus/blob/main/logo.png)
 
